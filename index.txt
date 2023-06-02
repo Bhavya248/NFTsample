@@ -1,0 +1,37 @@
+json server at : https://my-json-server.typicode.com/Bhavya248/NFTsample/metadata  [BaseURI]
+
+validation: https://rinkeby-api.opensea.io/asset/[nft contract address]/[token id]/validate
+
+IPFS keys:
+{
+	"0" : " QmYSR9R8YC2ZoTgUUuDypjBGbfpsyARBSH6MXpY9QjZHKk",
+
+	"1" : " QmUp4A1EN9hYCGABWJhw9pZq468pzsZC7kAwjDMSp5mhiY",
+
+	"2" : " QmXYWZy9BBHEFH3Phh6eGVAbxyhgjhNEaSdPuLESmAhzwu"
+}
+
+source : 
+
+{
+    "metadata": [
+        {
+            "id": 0,
+            "description": "My NFT",
+            "image": "https://gateway.pinata.cloud/ipfs/QmYSR9R8YC2ZoTgUUuDypjBGbfpsyARBSH6MXpY9QjZHKk",
+            "name": "My NFT 0"
+        },
+        {
+            "id": 1,
+            "description": "My NFT",
+            "image": "https://gateway.pinata.cloud/ipfs/QmUp4A1EN9hYCGABWJhw9pZq468pzsZC7kAwjDMSp5mhiY",
+            "name": "My NFT 1"
+        },
+        {
+            "id": 2,
+            "description": "My NFT",
+            "image": "https://gateway.pinata.cloud/ipfs/QmXYWZy9BBHEFH3Phh6eGVAbxyhgjhNEaSdPuLESmAhzwu",
+            "name": "My NFT 2"
+        }
+    ]
+}
