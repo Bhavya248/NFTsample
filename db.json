@@ -3,19 +3,19 @@
         {
             "id": 0,
             "description": "My NFT",
-            "image": "https://ipfs.io/ipfs/QmYSR9R8YC2ZoTgUUuDypjBGbfpsyARBSH6MXpY9QjZHKk",
+            "image": "https://gateway.pinata.cloud/ipfs/QmYSR9R8YC2ZoTgUUuDypjBGbfpsyARBSH6MXpY9QjZHKk",
             "name": "My NFT 0"
         },
         {
             "id": 1,
             "description": "My NFT",
-            "image": "https://ipfs.io/ipfs/QmUp4A1EN9hYCGABWJhw9pZq468pzsZC7kAwjDMSp5mhiY",
+            "image": "https://gateway.pinata.cloud/ipfs/QmUp4A1EN9hYCGABWJhw9pZq468pzsZC7kAwjDMSp5mhiY",
             "name": "My NFT 1"
         },
         {
             "id": 2,
             "description": "My NFT",
-            "image": "https://ipfs.io/ipfs/QmXYWZy9BBHEFH3Phh6eGVAbxyhgjhNEaSdPuLESmAhzwu",
+            "image": "https://gateway.pinata.cloud/ipfs/QmXYWZy9BBHEFH3Phh6eGVAbxyhgjhNEaSdPuLESmAhzwu",
             "name": "My NFT 2"
         }
     ]
